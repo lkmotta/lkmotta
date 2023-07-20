@@ -3,8 +3,8 @@
 -->
 
 <div style="margin-bottom: 2em;">
-<h1 style="text-align: center;color: rgb(255, 255, 255);border-bottom: 1px grey solid;"><b>Luka Motta</b></h1>
-<div style="text-align: center;">
+<h1 style="color: rgb(255, 255, 255);border-bottom: 1px grey solid;" align="center"><b>Luka Motta</b></h1>
+<div align="center">
 <h3 style="color: rgb(189, 189, 189);">Who am I</h3>
 <samp>Programming student and technology enthusiast. <br>Becoming a data programmer and software developer.<br> Always learning and evolving.</samp>
 </div>
@@ -13,7 +13,7 @@
 <div style="margin-bottom: 3em"><br>
 
 <h2 style="margin-top:0;color: rgb(189, 189, 189);"><b>Fav programming languages</b></h3>
-<div style="text-align: center;margin-bottom: 2em;">
+<div style="margin-bottom: 2em;" align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
