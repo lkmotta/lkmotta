@@ -1,60 +1,27 @@
-<!--
-**luka-motta/luka-motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1><center>Who am I</center></h1>
+<center>Graduating in Computer Enginner - UTFPR<br>Currently learning IoT, Software Enginner and A.I Enginner<br></center>
 
-<div style="margin-bottom: 2em;">
-<h1 style="color: rgb(255, 255, 255);border-bottom: 1px grey solid;" align="center"><b>Luka Motta</b></h1>
-<div align="center">
-<h3 style="color: rgb(189, 189, 189);">Who am I</h3>
-<samp>Programming student and technology enthusiast. <br>Becoming a data programmer and software developer.<br> Always learning and evolving.</samp>
-</div>
-</div>
-<hr>
-<div style="margin-bottom: 3em"><br>
+<br>
 
-<h2 style="margin-top:0;color: rgb(189, 189, 189);"><b>Fav programming languages</b></h3>
-<div style="margin-bottom: 2em;" align="center">
+## Dev Quotes
+<center>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
 
-<h2 style="margin-top:0;color: rgb(189, 189, 189);"><b>Studying</b></h3>
+</center><br>
 
-<div style="margin-bottom: 2em;" align="center">
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) <br>![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) <br> ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<p>Also Docker, Electron.js, Django, Flask, Java, C++, R language</p>
-</div>
+# GitHub Stats:
 
-<h2 style="color: rgb(189, 189, 189);"><b>Fav IDEs</b></h2>
-<div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=LukaMotta&theme=dark&hide_border=true)
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
-</div>
-<hr>
+![](https://visitcount.itsvg.in/api?id=LukaMotta&icon=2&color=12)
 
-<div align="center">
-<h2>Contact</h1>
-
+## Socials:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashmotta.contact@gmail.com?subject="")
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5543998027391)
-<!-- Coming soon: Discord Server -->
-
-</div>
-<!--
-
-thanks for the badges
-https://dev.to/envoy_/150-badges-for-github-pnk
-
--->
+![discord](https://img.shields.io/badge/Discord-.lukagg-blue)
