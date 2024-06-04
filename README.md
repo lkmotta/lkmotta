@@ -1,5 +1,5 @@
-<center><h1>Lucas Henrique Motta</h1></center>
-<center>Graduando em Engenharia de Computação, pela Universidade Tecnológica Federal do Paraná (UTFPR)<br>Atualmente estudando sobre IoT, Engenharia de Dados e Engenharia de I.A</center>
+<h1 align="center">Lucas Henrique Motta</h1>
+<p align="center">Graduando em Engenharia de Computação, pela Universidade Tecnológica Federal do Paraná (UTFPR)<br>Atualmente estudando sobre IoT, Engenharia de Dados e Engenharia de I.A</p>
 <br><br>
 
 # Tech Stack:
