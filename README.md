@@ -1,7 +1,7 @@
 <!-- https://github.com/lkmotta -->
 
 <h1 align="center">
-  <img src="nome.svg" alt="Lucas Henrique Motta" />
+  <img src="nome.svg" width="600" height="100" alt="Lucas Henrique Motta" />
 </h1>
 
 <p align="center">Graduando em <b>Engenharia de Computação</b> pela <b>Universidade Tecnológica Federal do Paraná</b> (UTFPR)</p><br>
