@@ -22,14 +22,11 @@
 </div>
 
 ## Repositórios:
-- <a href="https://github.com/lkmotta/Projeto-Super-Trunfo">Projeto-Super-Trunfo</a>
+- <a href="https://github.com/lkmotta/SmartNotes" target="_blank">SmartNotes - Em desenvolvimento</a>
 
-- <a href="https://github.com/lkmotta/tetris">Tetris</a>
+- <a href="https://github.com/lkmotta/Projeto-Super-Trunfo" target="_blank">Projeto-Super-Trunfo</a>
 
-## Projetos em andamento:
-- Notepad para estudos                          (Electron.js)
-- PassManager - armazenador de senhas           (PyQt5 + Sqlite)
-- Entre outros...
+- <a href="https://github.com/lkmotta/tetris" target="_blank">Tetris</a>
 
 ## Estatísticas:
 
